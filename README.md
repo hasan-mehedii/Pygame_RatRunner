@@ -41,3 +41,6 @@ This is a simple survival game where the player controls a mouse character that 
 1. **Install Pygame and Dependencies**: Make sure Python3 and Pygame are installed on your system. You can install Pygame using pip:
    ```sh
    pip install pygame
+2. **Run**:
+   ```sh
+   python3 main.py 

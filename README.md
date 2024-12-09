@@ -24,8 +24,14 @@ This is a simple survival game where the player controls a mouse character that 
 
 ## 🖼️ Screenshots
 
-### Gameplay
-![Gameplay](images/gameplay.png)
+### Run
+![Run](images/run.png)
+
+### Jumping
+![jump](images/jump.png)
+
+### Caught
+![caught](images/caught.png)
 
 ---
 
